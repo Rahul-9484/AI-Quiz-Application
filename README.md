@@ -48,8 +48,6 @@ This is a web-based AI Quiz Application developed using Python Flask and SQLite.
    pip install flask
 3. Run the application:
    python app.py
-4. Open browser and go to:
-   http://127.0.0.1:5000
 
 ##  Screenshots
 
