@@ -49,14 +49,3 @@ This is a web-based AI Quiz Application developed using Python Flask and SQLite.
 3. Run the application:
    python app.py
 
-##  Screenshots
-
-(Add screenshots here if needed)
-
-##  GitHub Repository
-
-(Add your repo link here)
-
-##  Conclusion
-
-This project provides an efficient platform for conducting online quizzes with proper management and tracking system.
